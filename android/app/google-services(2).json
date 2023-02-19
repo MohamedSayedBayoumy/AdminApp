@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "436470553530",
+    "project_id": "drfood-63386",
+    "storage_bucket": "drfood-63386.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436470553530:android:ed7553d033e45b08389b83",
+        "android_client_info": {
+          "package_name": "com.example.untitled87"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436470553530-60iilmph8cbt8jd5b2gila3uq02caqs4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYlOt2XqPTAsFOL3C78e6JrN_e3W12vi8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436470553530-60iilmph8cbt8jd5b2gila3uq02caqs4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
