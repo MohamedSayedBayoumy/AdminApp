@@ -1,16 +1,22 @@
-# untitled87
+ 
 
-A new Flutter project.
+       
+## Lessons Learned
 
-## Getting Started
+What did you learn while building this project? What challenges did you face and how did you overcome them?
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## License
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+[MIT](https://choosealicense.com/licenses/mit/)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+
+
+## Roadmap
+
+- Additional browser support
+
+- Add more integrations
+
